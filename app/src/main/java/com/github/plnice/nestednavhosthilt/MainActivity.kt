@@ -10,6 +10,8 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.github.plnice.nestednavhosthilt.authentication.Authentication
 import com.github.plnice.nestednavhosthilt.main.Main
+import com.github.plnice.nestednavhosthilt.navigation.Destinations
+import com.github.plnice.nestednavhosthilt.navigation.Navigator
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
 

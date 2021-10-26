@@ -1,4 +1,4 @@
-package com.github.plnice.nestednavhosthilt
+package com.github.plnice.nestednavhosthilt.navigation
 
 import dagger.Binds
 import dagger.Module
